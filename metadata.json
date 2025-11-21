@@ -1,0 +1,5 @@
+{
+  "name": "PyChat",
+  "description": "An advanced AI coding assistant capable of generating complex code and producing high-quality videos using Google's latest Veo and Gemini models.",
+  "requestFramePermissions": []
+}
